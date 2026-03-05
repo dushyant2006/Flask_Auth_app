@@ -204,7 +204,7 @@ This project is deployed on Render.
 
 
 
-Live URL: (Add after deployment)
+Live URL: https://flask-auth-app-msnr.onrender.com
 
 
 
