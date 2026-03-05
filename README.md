@@ -156,7 +156,7 @@ HOW TO RUN LOCALLY
 
 1\. Clone the repository:
 
-&nbsp;  git clone https://github.com/dushyant2006/Flask\_Auth\_app.git
+&nbsp;  git clone https://github.com/dushyant2006/Flask_Auth_app.git
 
 
 
